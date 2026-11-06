@@ -1,0 +1,14 @@
+{
+  "appId": "com.sunlight.ai.photoselector",
+  "appName": "Sunlight AI Photo Selector",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": true
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}

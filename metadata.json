@@ -1,0 +1,6 @@
+{
+  "name": "Sunlight AI Photo Selector",
+  "description": "Professional AI photo culling application for photographers. Automatically groups camera shooting sequences, analyzes sharpness, eyes, faces, exposure, and selects the best shots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
